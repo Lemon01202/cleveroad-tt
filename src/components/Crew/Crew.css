@@ -1,0 +1,11 @@
+.crewList{
+	border: 1px solid #000;
+}
+
+.crew{
+	font-size: 20px;
+	border: 1px solid #000;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 2px;
+}

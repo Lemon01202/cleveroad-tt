@@ -1,0 +1,12 @@
+.currentTime{
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.currentTimeTitle{
+	font-weight: 600;
+	font-size: 20px;
+}
+.currentTimeSubtitle{
+	font-style: italic;
+}
